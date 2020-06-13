@@ -1,5 +1,4 @@
-# Portfolio
-
+# Titanic Data Competition
 This is and analysi of the Titanic survival data for the Titanic Competition on Kaggle
 
 ## How to Use
